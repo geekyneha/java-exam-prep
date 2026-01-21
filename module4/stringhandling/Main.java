@@ -33,7 +33,7 @@ public class Main {
             str3.concat(" World");
             // This modifies the same StringBuilder object
             sb.append(" World");
-            // This modifies the same StringBuffer object
+            // This modifies the same StringBuffer object.
             sbf.append(" World");
         }
         System.out.println("Final String: " + str);
