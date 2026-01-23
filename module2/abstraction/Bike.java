@@ -19,7 +19,7 @@ public class Bike  extends Vehicles {
 
        @Override
        public void refuel(){
-           System.out.println("Bike is refueling");
+           System.out.println("Bike is refuled");
        }
     
 }
