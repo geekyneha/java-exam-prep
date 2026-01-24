@@ -1,8 +1,9 @@
 package module2;
 
 public class Methods {
+    private int data = 40;
      
-    public static int sum(int ...a){
+    public int sum(int ...a){
         int res =0;
         for(int i:a){
             res +=i;
@@ -11,8 +12,10 @@ public class Methods {
         return res;
     }
     public static void main(String args[]){
-
-        System.out.println("Sum is " + sum(1,2,3,4,5,6,7,8,9,10));
+        Methods obj = new Methods();
+        obj.data =50;
+        System.out.println("Data is " + obj.data);
+        System.out.println("Sum is " + obj.sum(1,2,3,4,5,6,7,8,9,10));
 
     }
     
