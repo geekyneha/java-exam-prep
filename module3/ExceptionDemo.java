@@ -13,10 +13,10 @@ public class ExceptionDemo {
 
     public static void main(String args[]){
         int[] numerators = {10,20,30,40};
-        int[] denomintaors = {2,5,10,4};
+        int[] denomintaors = {2,5,10,4,0};
          // ArrayIndexOutOfBoundsException will also occur when i=4 
         for(int i=0; i < numerators.length ; i++){
-
+           // 
             System.out.println("Dividing " + numerators[i] + " by " + denomintaors[i]);
             System.out.println("Result: " + divide(numerators[i], denomintaors[i]));
 
@@ -27,6 +27,7 @@ public class ExceptionDemo {
     }
 
     public static int divide(int a, int b){
+        // dividing by 0 -> ArithmaticException
         return a/b;
     }
 
