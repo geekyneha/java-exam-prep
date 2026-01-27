@@ -22,7 +22,10 @@ public class SmartPhone implements Camera, MusicPlayer, Phone {
     public void stopMusic(){
         System.out.println("Stopping Music...");
     }
-
+      @Override
+      public void forwardMusic(){
+        System.out.println("Music is forwared by 10sec.");
+      }
     @Override
 
     public void makeCall(String number){
