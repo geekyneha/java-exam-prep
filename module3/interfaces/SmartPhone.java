@@ -24,7 +24,7 @@ public class SmartPhone implements Camera, MusicPlayer, Phone {
     }
       @Override
       public void forwardMusic(){
-        System.out.println("Music is forwared by 10sec.");
+        System.out.println("Music is forwared by 1sec.");
       }
     @Override
 
