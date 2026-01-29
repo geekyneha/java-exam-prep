@@ -29,7 +29,7 @@ public class SmartPhone implements Camera, MusicPlayer, Phone {
     @Override
 
     public void makeCall(String number){
-        System.out.println("Calling... " + number);
+        System.out.println("Calling " + number);
     }
 
     public void endCall(){
