@@ -1,5 +1,5 @@
 package module1.cf;
-// collection framework
+// collection framework array
 public class ArrayList {
 
 
