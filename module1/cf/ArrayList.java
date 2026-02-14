@@ -4,5 +4,10 @@ public class ArrayList {
 String str;
 int a;
 
+
+public static void main(String args []){
+
+}
+
     
 }
