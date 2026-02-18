@@ -7,7 +7,7 @@ int a;
 
 public static void main(String args []){
     int arr[] = {1,23,4,6};
-    System.out.println(arr+" "+arr[0]);
+    System.out.println(arr+" "+arr[2]);
 }
 
     
