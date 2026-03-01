@@ -14,7 +14,7 @@ public static void main(String args []){
     arr1[2] = 3;
     arr1[3] = 4;        
     arr1[4] = 6;
-    System.out.println(arr1+" "+arr1[9]);
+    System.out.println(arr1+" "+arr1[4]);
 }
 
     
