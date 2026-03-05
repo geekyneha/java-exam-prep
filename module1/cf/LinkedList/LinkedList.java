@@ -8,8 +8,8 @@ public class LinkedList {
             int data;
             Node next;
     
-            Node(int d) {
-                data = d;
+            Node(int dt) {
+                data = dt;
                 next = null;
             }
         }
