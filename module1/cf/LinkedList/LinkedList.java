@@ -40,7 +40,7 @@ public class LinkedList {
             LinkedList list = new LinkedList();
             list.insert(10);
             list.insert(20);
-            list.insert(50);
+            list.insert(30);
             list.display(); // Output: 10 20 30
         }
     
