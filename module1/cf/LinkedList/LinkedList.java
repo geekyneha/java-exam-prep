@@ -41,7 +41,7 @@ public class LinkedList {
             list.insert(10);
             list.insert(20);
             list.insert(20);
-            list.display(); // Output: 10 20 30
+            list.display(); // 
         }
     
 }
