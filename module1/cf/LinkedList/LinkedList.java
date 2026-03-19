@@ -40,8 +40,8 @@ public class LinkedList {
             LinkedList list = new LinkedList();
             list.insert(10);
             list.insert(20);
-            list.insert(80);
-            list.display(); // 
+            list.insert(90);
+            list.display(); // 10 20 90
         }
     
 }
