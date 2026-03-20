@@ -41,7 +41,7 @@ public class LinkedList {
             list.insert(10);
             list.insert(20);
             list.insert(90);
-            list.display(); // 10 20 90
+            list.display(); 
         }
     
 }
