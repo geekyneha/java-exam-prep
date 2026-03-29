@@ -8,7 +8,7 @@ int a;
 public static void main(String args []){
     int arr[] = {1,23,4,5,6,7,8,9,11};
     System.out.println(arr+" "+arr[2]);
-    int arr1[] = new int[8];
+    int arr1[] = new int[9];
     arr1[0] = 1;
     arr1[1] = 2;
     arr1[2] = 3;
