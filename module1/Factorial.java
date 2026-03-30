@@ -27,7 +27,7 @@ public class Factorial {
 
         System.out.println(calcFactorial(5)); // 120
         System.out.println(calcFactorial(0)); // 1
-        System.out.println(calcFactorial(1)); // 1
+         // 1
         System.out.println(calcFactorial(6)); // 720
         System.out.println(calcFactorial(3)); // 6
         System.out.println(fact(5));//120
