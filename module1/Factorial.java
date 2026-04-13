@@ -1,5 +1,5 @@
 package module1;
-// WAP to calculate factorial of number n using for loop.
+.
 public class Factorial {
     public static int fact(int n){
         if(n==0 || n==1){
