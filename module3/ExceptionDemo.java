@@ -5,7 +5,7 @@
 // program will crash during execution. some will execute successfully before the crash.
 // This is to demonstrate how exceptions can disrupt normal program flow.
 
-// why called exception ? because some part works except the part which cuases exception. Everything that is after exception will not be executed. To handle such scenarios we use exception handling mechanism in java. In this the part which causes exception is handled and rest of the program continues to execute. 
+// why called exception ? because some part works except the part which cuases exception. Everything that is after exception will not be executed. To handle such scenarios we use exception handling mechanism in java. In this the part which causes exception is handled and rest of the program continues to execute. in this program we will see how to handle exception using try catch block in java.
 
 package module3;
 
