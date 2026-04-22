@@ -3,7 +3,7 @@
 // This program demonstrates basic exception  in Java.
 // It attempts to divide elements from two arrays and will throw an ArithmeticException when division by zero is attempted.  
 // program will crash during execution. some will execute successfully before the crash.
-// This is to demonstrate how exceptions can disrupt normal program flow.
+// This is to demonstrate how exceptions can disrupt normal program flow. the program will throw an exception when it tries to divide by zero. The part of the program that executes successfully is the division of the first four elements of the arrays. However, when it reaches the fifth element, it will attempt to divide by zero, which will cause an ArithmeticException to be thrown. As a result, the program will terminate and any code after the point of exception will not be executed.
 
 // why called exception ? because some part works except the part which cuases exception. Everything that is after exception will not be executed. To handle such scenarios we use exception handling mechanism in java. In this the part which causes exception is handled and rest of the program continues to execute. in this program we will see how to handle exception using try catch block in java.
 
