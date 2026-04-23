@@ -5,7 +5,7 @@ public class Throws {
     public static void main (String args[]) throws ArrayIndexOutOfBoundsException {
         
         int[] numerators = {10,20,30,40};
-        int[] denominators = {2,5,10,4}; // Note the zero
+        int[] denominators = {2,5,10,4}; // Note the 0
 
        for(int i=0; i< numerators.length+1;i++){
         
