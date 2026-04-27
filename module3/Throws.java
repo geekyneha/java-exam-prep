@@ -1,5 +1,5 @@
 package module3;
-//throwss
+//throws
 
 public class Throws {
 
