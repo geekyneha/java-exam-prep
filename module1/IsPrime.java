@@ -1,5 +1,5 @@
 package module1;
-// isprime is a function that checks if a number is prime or not.
+// isprime is a function that checks if a number is prime or not. ISprime
 public class IsPrime {
     
     public static boolean isPrime(int x){
