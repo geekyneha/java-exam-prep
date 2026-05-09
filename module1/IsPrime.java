@@ -1,5 +1,5 @@
 package module1;
-// isprime is a function that checks if a number is prime or not. Isprime is a function that checks if a number is prime or not. A prime number is a number that is only divisible by 1 and itself. For example, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29 are prime numbers. The function takes an integer as input and returns true if the number is prime and false otherwise.
+
 public class IsPrime {
     
     public static boolean isPrime(int x){
