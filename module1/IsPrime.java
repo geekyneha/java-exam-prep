@@ -1,5 +1,5 @@
 package module1;
-//isprime
+//isprime 
 public class IsPrime {
     
     public static boolean isPrime(int x){
