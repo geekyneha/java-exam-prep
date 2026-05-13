@@ -4,6 +4,8 @@ public interface MusicPlayer {
 
     void playMusic();
     void forwardMusic();
+    void rewindMusic();
+    void stopMusic();
    
     
 } 
